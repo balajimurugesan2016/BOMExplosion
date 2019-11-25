@@ -17,6 +17,7 @@
 			<artifactId>sap.suite.ui.generic.template</artifactId>
 		</dependency>
 	</dependencies>
+	
 	<!-- 
         YOU NEED TO SPECIFY the translationDeveloper and the translationCollection 
         For Fiori On-Premise apps: Use FIORI_ as the prefix followed by your

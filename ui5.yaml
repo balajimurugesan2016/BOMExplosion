@@ -28,3 +28,4 @@ builder:
       afterTask: webide-extension-task-lint
       configuration:
         nameSpace: sap/draft
+        
